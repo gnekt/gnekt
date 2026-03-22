@@ -1,4 +1,3 @@
-# Christian Di Maio 🇮🇹
 ### PhD Student @ National PhD in Artificial Intelligence | Continual Learning | Knowledge Graphs
 
 I write code to stop AI from forgetting. If only it worked on me...
